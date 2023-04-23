@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+}
+main{
+    width: 800px;
+    background-color: yellowgreen;
+    padding: 5px;
+}
+header{
+    text-align: center;
+}
+form{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+legend{
+    color: yellow;
+    font-size: large;
+    font-weight: bolder;
+}
+label{
+    font-weight: bold;
+}
+#nyelvek{
+    font-weight: bold;
+}
+#szoveg{
+margin-top: 0%;
+}
